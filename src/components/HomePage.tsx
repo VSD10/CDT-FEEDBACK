@@ -77,7 +77,7 @@ export default function HomePage() {
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Thank You!</h2>
           <p className="text-gray-600 mb-6">
-            Your feedback has been successfully submitted to Knowledge Institute of Technology. Your input is valuable for improving our Career Development Training program.
+            Your feedback has been successfully submitted to User  . Your input is valuable for improving our Career Development Training program.
           </p>
           <button
             onClick={() => setSubmitted(false)}
@@ -96,15 +96,13 @@ export default function HomePage() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl md:text-4xl font-bold text-blue-900 mb-2">
-            Knowledge Institute of Technology
+            VSD
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold text-blue-700 mb-4">
-            Career Development Training
+            FEEDBACK COLLECTION
           </h2>
           <div className="mb-4">
-            <p className="text-lg text-gray-700 font-medium">
-              Under the guidance of <span className="text-blue-800 font-bold">Mr. Thangavel</span> and <span className="text-blue-800 font-bold">Mr. Sakthi Vel</span>
-            </p>
+          
           </div>
           <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
             Anonymous Feedback Portal
